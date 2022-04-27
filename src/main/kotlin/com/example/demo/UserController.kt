@@ -2,6 +2,7 @@ package com.example.demo
 
 import com.example.demo.database.UserMapper
 import com.example.demo.database.UserRecord
+import com.example.demo.database.insert
 import com.example.demo.database.selectByPrimaryKey
 import org.springframework.web.bind.annotation.*
 
